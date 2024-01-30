@@ -7,7 +7,7 @@ this repository contain useful resources for cis133
 ### resources
 
 1. **GeeksforGeeks**
-   - [Website](https://www.geeksforgeeks.org/)
+   - https://www.geeksforgeeks.org/
    - A comprehensive platform with tutorials and articles on various programming and computer science topics. It provides clear explanations and examples.
 
 **Mozilla Developer Network (MDN)**
